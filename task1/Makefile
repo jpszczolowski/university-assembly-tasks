@@ -3,7 +3,7 @@ CFLAGS = -Og -Wall
 LDFLAGS = 
 ASFLAGS = -g
 
-zad1: zad1.o clz.o
+task1: task1.o clz.o
 
 clean:
-	rm -f zad1 *.o *~
+	rm -f task1 *.o *~

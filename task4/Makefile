@@ -3,7 +3,7 @@ CFLAGS = -Og -Wall
 LDFLAGS = 
 ASFLAGS = -g
 
-zad4: zad4.o fibonacci.o
+task4: task4.o fibonacci.o
 
 clean:
-	rm -f zad4 *.o *~
+	rm -f task4 *.o *~

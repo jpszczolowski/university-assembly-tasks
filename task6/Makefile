@@ -3,7 +3,7 @@ CFLAGS = -Og -Wall
 LDFLAGS = -nostdlib
 ASFLAGS = -g
 
-zad7: zad7.o
+task6: task6.o
 
 clean:
-	rm -f zad7 *.o *~
+	rm -f task6 *.o *~

@@ -3,7 +3,7 @@ CFLAGS = -Og -Wall
 LDFLAGS = 
 ASFLAGS = -g
 
-zad8: zad8.o approx_sqrt.o
+task7: task7.o approx_sqrt.o
 
 clean:
-	rm -f zad8 *.o *~
+	rm -f task7 *.o *~

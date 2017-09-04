@@ -3,7 +3,7 @@ CFLAGS = -Og -Wall -std=c99
 LDFLAGS = 
 ASFLAGS = -g
 
-zad3: zad3.o insert_sort.o
+task3: task3.o insert_sort.o
 
 clean:
-	rm -f zad3 *.o *~
+	rm -f task3 *.o *~
