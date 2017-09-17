@@ -1,5 +1,5 @@
 # university-assembly-tasks
-x86-64 assembly task list for university course Computer Systems Architecture
+## x86-64 assembly task list for university course Computer Systems Architecture
 * task1 - clz bit function
 * task2 - lcm & gcd
 * task3 - insert sort
